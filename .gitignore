@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+fer2013.csv
